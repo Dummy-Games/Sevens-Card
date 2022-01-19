@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashScreenFragment">
+
+    <fragment
+        android:id="@+id/splashScreenFragment"
+        android:name="cards.sev.sevens.ui.gfdgffgfdgsdg"
+        android:label="fragment_splash_screen"
+        tools:layout="@layout/gdfgsdgdsdvssc" />
+    <fragment
+        android:id="@+id/startingFragment"
+
+        android:name="cards.sev.sevens.ui.gfgffgfdgfg"
+        android:label="fragment_starting"
+        tools:layout="@layout/ghdfhgffgd" />
+    <fragment
+        android:id="@+id/gfdgergdf"
+        android:name="cards.sev.sevens.ui.gfdgfdgdfgdfgf"
+        android:label="fragment_about"
+        tools:layout="@layout/dsfdsfewfeds" />
+    <fragment
+        android:id="@+id/fbgfgssfgd"
+        android:name="cards.sev.sevens.ui.fgdfdgfdhfdh"
+        android:label="fragment_game"
+        tools:layout="@layout/bgfdgfgdfgh" />
+</navigation>
